@@ -1,0 +1,102 @@
+/* xxl */
+@media (min-width: 1400px) {
+    #hero {
+        padding: 0 80px;
+    }
+    /* HOME special_offer start  */
+    #special_offer .special_offer_img .special_design_a a i {
+        position: absolute;
+        top: 50%;
+        left: 15%;
+
+    }
+    /* HOME special_offer end  */
+    /* HOME footer_overlay start */
+    #footer_overlay .container {
+        margin: 0px 45px;
+    }
+    /* HOME footer_overlay end  */
+}
+/* xl */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* HOME Top start  */
+    #top_bar .top_bar_right ul:first-child li {
+        padding: 0px 15px;
+    }
+    #top_bar .top_bar_right a {
+        margin-left: 15px;
+    }
+    /* HOME Top end  */
+    /* HOME Hero start  */
+    #hero .hero_slider_item {
+        height: 650px;
+    }
+    /* HOME hero end  */
+    /* HOME footer_overlay start  */
+    #footer_overlay .container {
+        padding: 27px 26px;
+        margin: 0px 30px;
+        
+    }
+    /* HOME footer_overlay end  */
+    /* HOME footer start  */
+    .footer .subscribe_button input {
+
+        padding-left: 4px;
+    }
+    .footer .subscribe_button a {
+        width: 130px; 
+    }
+    /* HOME footer end  */
+    
+}
+/* lg */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* HOME Top start  */
+    #top_bar .top_bar_right ul:first-child li {
+        padding: 0px 15px;
+    }
+    #top_bar .top_bar_right a {
+        margin-left: 15px;
+    }
+    /* HOME Top end  */
+    /* HOME Hero start  */
+    #hero .hero_slider_item {
+        height: 600px;
+    }
+    /* HOME hero end  */
+
+    /* HOME Deals start */
+    #deals_details .deals_slider .deals_slider_item h2 {
+        font-size: 27px;
+        
+    }
+    /* HOME Deals end  */
+    /* HOME footer_overlay start  */
+
+    #footer_overlay .container {
+        padding: 16px 1px;
+        margin: 0px 17px;
+    }
+    /* HOME footer_overlay end  */
+    /* HOME footer start  */
+    .footer .subscribe_button a {
+        font-size: 16px;
+        width: 72px;
+        
+    }
+    .footer .subscribe_button input {
+        padding-left: 1px;
+        
+    }
+    /* HOME footer end  */
+}
+/* md */
+@media (min-width: 768px) and (max-width: 991.98px) {
+}
+/* sm */
+@media (min-width: 576px) and (max-width: 767.98px) {
+}
+/* xs */
+@media (max-width: 575.98px) {
+}
